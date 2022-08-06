@@ -44,7 +44,7 @@ CUDA_VISIBLE_DEVICES=0 python3 run_quac.py \
 	--model_name_or_path   electra-large \
 	--do_train \
 	--do_eval \
-    --data_dir ${INPUT_DIR} \
+        --data_dir ${INPUT_DIR} \
 	--train_file train.json \
 	--predict_file dev.json \
 	--output_dir ${OUTPUT_DIR} \
@@ -74,7 +74,7 @@ CUDA_VISIBLE_DEVICES=0 python3 run_quac.py \
 	--model_type electra  \
 	--model_name_or_path   ${MODEL_DIR} \
 	--do_eval \
-    --data_dir ${INPUT_DIR} \
+        --data_dir ${INPUT_DIR} \
 	--train_file train.json \
 	--predict_file dev.json \
 	--output_dir ${OUTPUT_DIR} \

@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img alt="GHR Overview" src="https://github.com/jaytsien/GHR/blob/main/utils/GHR_model.png" width="400px">
+  <img alt="GHR Overview" src="https://github.com/jaytsien/GHR/blob/main/utils/GHR_model.png" width="800px">
 </div> 	
 
 

@@ -1,6 +1,6 @@
 <h3 align="center">
 <p>GHR
-<a href="https://github.com/dmis-lab/excord/blob/master/LICENSE">
+<a href="https://github.com/jaytsien/GHR/blob/main/LICENSE">
    <img alt="GitHub" src="https://img.shields.io/badge/License-MIT-yellow.svg">
 </a>
 </h3>

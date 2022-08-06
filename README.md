@@ -6,6 +6,7 @@
 </h3>
 <div align="center">
     <p>Capturing Conversational Interaction for Question Answering via <b>G</b>lobal <b>H</b>istory <b>R</b>easoning
+    <p>NAACL Findings 2022
 </div>
 
 <div align="center">
